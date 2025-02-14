@@ -28,9 +28,6 @@ cd main.py
 python -m venv venv
 venv\Scripts\activate
 
-Usage
-
-Run the Streamlit app with the following command:
 ## 🔥 Usage
 ### 1️⃣ Run the Streamlit App
 streamlit run main.py
