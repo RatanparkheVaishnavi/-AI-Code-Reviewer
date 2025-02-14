@@ -30,9 +30,9 @@ venv\Scripts\activate
 
 ## 🔥 Usage
 ### 1️⃣ Run the Streamlit App
-streamlit run main.py
+streamlit run main.py  
 By default, Streamlit runs on port **8501**. To change the port:
-
+  
 streamlit run app.py --server.port 8502
 
 
