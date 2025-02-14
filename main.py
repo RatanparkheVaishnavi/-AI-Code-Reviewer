@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyBwAxaTIxIHGZ9oiQRdvwbeRXQCDLjq724")
+genai.configure(api_key="enter_your_apikey")
 # Configure the Streamlit page
 st.set_page_config(page_title="AI Code Reviewer", layout="centered")
 
